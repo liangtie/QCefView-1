@@ -26,7 +26,7 @@ endif()
 #
 set(CEF_SDK_URL
   # Change this value to swith between different CEF versions.
-  "https://cef-builds.spotifycdn.com/cef_binary_89.0.12%2Bg2b76680%2Bchromium-89.0.4389.90_windows64.tar.bz2" 
+  "https://cef-builds.spotifycdn.com/cef_binary_109.1.18%2Bgf1c41e4%2Bchromium-109.0.5414.120_windows64.tar.bz2" 
 )
 
 
